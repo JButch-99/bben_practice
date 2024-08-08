@@ -24,10 +24,11 @@ img {
 .left-sidebar {
   float: left;
   width: 250px;
-  background-color: darkslategray;
-  border-style:outset;
-  border-width: 15px;
-  border-color: darkgrey;
+  color: black;
+  background-color: antiquewhite;
+  border: solid darkgrey;
+  margin-bottom: 10px;
+  box-sizing: border-box;
 }
 
 .right-sidebar {
