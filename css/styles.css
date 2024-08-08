@@ -4,6 +4,7 @@ h1 {
 
 body {
   background-color: black;
+  color:azure;
 }
 
 li {
@@ -22,28 +23,17 @@ img {
 .left-sidebar {
   float: left;
   width: 250px;
-  color: black;
-  background-color: antiquewhite;
-  border: solid darkgrey;
+  background-color: slategray;
+  border: solid white;
   box-sizing: border-box;
 }
 
 .right-sidebar {
   float: right;
   width: 250px;
-  background-color:whitesmoke;
-  color: black;
-  border: solid darkgrey;
+  background-color:darkslategray;
+  border: solid lightgray;
   box-sizing: border-box;
-}
-
-.central {
-  width: 200px;
-  height: 200px;
-  margin-left: auto;
-  margin-right: auto;
-  text-align: center;
-  padding-top: 40px;
 }
 
 .section {
@@ -69,15 +59,16 @@ img {
 }
 
 .logo {
-  margin-left: 300px;
+  margin-left: auto;
   margin-right: auto;
-  border-style:groove;
-  background-color: white;
+  display: block;
+  border-style:hidden;
   border-radius: 30px;
+  padding-bottom: 30px;
 }
 
 .content {
-  font-size: 15px;
+  font-size: 19px;
   text-align: center;
   font-family: monospace;
 }
