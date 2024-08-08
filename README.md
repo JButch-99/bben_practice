@@ -1,29 +1,27 @@
 # Breaking Benjamin Fan Page
 
-#### By: JButch-99
+#### By: _JButch-99_
 
 ## Technologies Used
 
-* VSCode
-* GIT Bash
-* YouTube
+* _HTML_
+
+* _CSS_
 
 ## Description 
 > _This is a web portal meant display aspects related to the rock band, Breaking Benjamin. This webpage will be able to redirect you to some of the band's discography, the release order of their albums, and links to official websites and music._
 
 ## Set-Up / Installation Requirements
 
-* Proceed to the git bash program.
+* _Clone the repository onto your desktop._
 
-* Enter "cd ~/Desktop", then enter "git clone "https://github.com/JButch-99/bben_practice" 
+* _Navigate to the top of the directory._
 
-* Once cloned, enter "cd bben_practice", then enter "code ."
-
-* Proceed to run this through the Live Server extension.
+* _Open the ben.html onto your browser._
 
 ## Known Bugs
 
-* Depending on window size, content could overlap each other. 
+* _Depending on window size, content could overlap each other._ 
 
 ## License
 
