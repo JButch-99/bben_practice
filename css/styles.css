@@ -4,7 +4,6 @@ h1 {
 
 body {
   background-color: black;
-  color: white;
 }
 
 li {
@@ -36,10 +35,8 @@ img {
   width: 250px;
   background-color:antiquewhite;
   color: black;
-  font-size: 20px;
-  border-style:outset;
-  border-width:15px;
-  border-color: lightgray;
+  border: solid darkgrey;
+  box-sizing: border-box;
 }
 
 .central {
@@ -58,9 +55,8 @@ img {
   -webkit-text-stroke-width: 1px;
   color: white;
   background-color: grey;
-  border-style:ridge;
+  border: ridge white;
   border-width: 10px;
-  border-color: darkslategrey;
   text-align: center;
 }
 
